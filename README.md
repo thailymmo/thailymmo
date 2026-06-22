@@ -7,7 +7,7 @@
 **Go · gRPC · GraphQL · TypeScript · Cloud-Native**
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=thailyhcmut&color=00ADD8&style=flat-square&label=Profile+Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=thailymmo&color=00ADD8&style=flat-square&label=Profile+Views" alt="views" />
   <a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <img src="https://img.shields.io/badge/HCMUT-Bach%20Khoa%20University-005571?style=flat-square&logo=googlescholar&logoColor=white" alt="hcmut" />
 </p>
@@ -99,10 +99,10 @@ func main() {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thailyhcmut&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailyhcmut&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thailymmo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailymmo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8" />
 
-<img src="https://streak-stats.demolab.com/?user=thailyhcmut&theme=radical&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
+<img src="https://streak-stats.demolab.com/?user=thailymmo&theme=radical&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
 
 </div>
 
@@ -113,8 +113,10 @@ func main() {
 ### 📫 Let's connect
 
 <a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/lyvinhthai321@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="mailto:admin@thaily.id.vn"><img src="https://img.shields.io/badge/admin@thaily.id.vn-00ADD8?style=flat-square&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:admin@thaily.tech"><img src="https://img.shields.io/badge/admin@thaily.tech-00ADD8?style=flat-square&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:admin@thaily.me"><img src="https://img.shields.io/badge/admin@thaily.me-7B2FF7?style=flat-square&logo=maildotru&logoColor=white" /></a>
 
 <sub>⚡ <i>"Performance is a feature."</i></sub>
 
 </div>
+
