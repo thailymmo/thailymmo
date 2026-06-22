@@ -99,8 +99,8 @@ func main() {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thailymmo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailymmo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8" />
+<img height="165" src="https://github-readme-stats-rho-ten-82.vercel.app/api?username=thailymmo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8" />
+<img height="165" src="https://github-readme-stats-rho-ten-82.vercel.app/api/top-langs/?username=thailymmo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADD8" />
 
 <img src="https://streak-stats.demolab.com/?user=thailymmo&theme=radical&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
 
