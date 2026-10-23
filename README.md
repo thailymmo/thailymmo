@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hey, I'm Thaily 👋
-### Software Engineer · Backend Systems · Full-Stack · DevOps
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=THAILY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=59&descSize=16" alt="Thaily profile banner" />
 
-I build practical software across **backend APIs, automation, media pipelines, and web applications** — with a strong focus on reliability, maintainability, and performance.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Turning+ideas+into+useful+software;Go+%C2%B7+TypeScript+%C2%B7+Node.js;Automating+the+boring+stuff" alt="Animated typing intro" />
+</a>
 
 <p>
-  <a href="https://github.com/thailymmo"><img src="https://komarev.com/ghpvc/?username=thailymmo&style=flat-square&color=0e9f6e&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  <a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0e9f6e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/thailymmo?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github" alt="Repositories" /></a>
+  <a href="https://github.com/thailymmo"><img src="https://komarev.com/ghpvc/?username=thailymmo&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" /></a>
+  <a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/thailymmo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My%20GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </p>
 
 </div>
@@ -17,64 +18,95 @@ I build practical software across **backend APIs, automation, media pipelines, a
 
 ## 👨‍💻 About Me
 
-- 🔧 Interested in **backend engineering**, API design, distributed systems, and developer tooling.
-- ⚙️ Build with **Go, TypeScript, Node.js**, and modern web technologies.
-- 🔐 Care about authentication, authorization, tenant isolation, and secure-by-default APIs.
-- 🎬 Explore media automation, video processing, streaming, and text-to-speech workflows.
-- ☁️ Enjoy self-hosting, containers, CI/CD, and making infrastructure practical and cost-efficient.
-- 🌱 Always learning by building, testing, debugging, and improving real projects.
+Hey, I'm **Thaily** — a software engineer who enjoys figuring out how things work, building useful tools, and making systems more reliable.
 
-## 🛠️ Tech Stack
+- 🧠 **Backend & APIs** — service design, API contracts, gRPC, and distributed-system fundamentals.
+- 🔐 **Security-minded engineering** — authentication, authorization, tenant isolation, and safe defaults.
+- ⚡ **Full-stack development** — connecting clean interfaces with dependable backend services.
+- 🎬 **Media automation** — video processing, streaming, caching, and text-to-speech workflows.
+- ☁️ **Infrastructure** — Linux, Docker, CI/CD, self-hosting, and cost-conscious deployments.
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
+> I like understanding the whole system — from the first request to the database, deployment, and everything in between.
 
-| Area | Tools & Technologies |
-|---|---|
-| **Backend & APIs** | Go, Node.js, TypeScript, REST, gRPC, Protocol Buffers, GraphQL |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Data & Messaging** | MongoDB, PostgreSQL, Redis |
-| **Infrastructure** | Docker, Linux, Nginx, GitHub Actions |
-| **Storage & Media** | MinIO, FFmpeg, video streaming, media automation |
-| **Exploration** | Python, cloud platforms, observability, AI-assisted workflows |
-
-## 🧩 What I Work On
-
-- **Backend systems:** API contracts, service boundaries, data access, and scalable application structure.
-- **Security & access control:** authentication flows, RBAC/policy-based authorization, token lifecycle, and tenant-aware permissions.
-- **Automation & developer tools:** code generation, bots, integrations, and scripts that remove repetitive work.
-- **Media systems:** video generation and processing, streaming performance, caching, and storage workflows.
-- **Full-stack products:** connecting frontend experiences to reliable APIs and deployment pipelines.
-
-## 📈 GitHub Activity
+## ⚙️ My Toolkit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-rho-ten-82.vercel.app/api?username=thailymmo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-rho-ten-82.vercel.app/api/top-langs/?username=thailymmo&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+### Languages & Frameworks
 
-<img src="https://streak-stats.demolab.com/?user=thailymmo&theme=transparent&hide_border=true" alt="GitHub streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,python,react,nextjs&theme=dark" alt="Languages and frameworks" />
+</p>
+
+### Databases, Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,linux,nginx,githubactions,git&theme=dark" alt="Databases and infrastructure tools" />
+</p>
 
 </div>
 
-<sub>Stats are provided by third-party services and may not include all private activity.</sub>
+## 🧪 Things I Enjoy Building
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## 🤝 Connect
+### 🧩 Backend Systems
 
-- **GitHub:** [@thailymmo](https://github.com/thailymmo)
-- **Email:** [lyvinhthai321@gmail.com](mailto:lyvinhthai321@gmail.com)
+Designing APIs and services that are understandable, maintainable, and dependable.
+
+</td>
+    <td width="50%" valign="top">
+
+### 🛡️ Access Control
+
+Working with authentication, roles, policies, and permissions across tenants.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 Automation
+
+Building integrations, bots, generators, and scripts to eliminate repetitive work.
+
+</td>
+    <td width="50%" valign="top">
+
+### 🎞️ Media Pipelines
+
+Exploring video processing, streaming performance, caching, and storage workflows.
+
+</td>
+  </tr>
+</table>
+
+## 📊 GitHub, at a Glance
 
 <div align="center">
 
-*“Build it clearly. Make it reliable. Keep improving.”*
+<img height="170" src="https://github-readme-stats-rho-ten-82.vercel.app/api?username=thailymmo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats-rho-ten-82.vercel.app/api/top-langs/?username=thailymmo&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most-used languages" />
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=thailymmo&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+<sub>Stats are generated by third-party services. Private activity and language totals may not be fully represented.</sub>
+
+---
+
+<div align="center">
+
+### Let's Build Something Meaningful
+
+<a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/Reach%20out-lyvinhthai321%40gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+<a href="https://github.com/thailymmo"><img src="https://img.shields.io/badge/Follow-@thailymmo-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" />
 
 </div>
