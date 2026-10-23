@@ -20,13 +20,15 @@
 
 <div align="center">
 
-### I don't just write code. I make things work.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=I+don't+just+write+code.;I+make+things+work.;Curious+mind.+Systems+thinker.;Builder+by+habit." alt="Animated About Me tagline" />
+</a>
 
 *Curious mind. Systems thinker. Builder by habit.*
 
 </div>
 
-I'm **Thaily** — a software engineer drawn to the parts beneath the surface: how services communicate, how systems fail, how to make them faster, safer, and easier to maintain.
+I'm **Thaily** — a software engineer drawn to the parts beneath the surface: how services communicate, how systems fail, and how to make them faster, safer, and easier to maintain.
 
 <table>
   <tr>
