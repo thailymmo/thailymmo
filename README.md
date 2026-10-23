@@ -77,15 +77,29 @@ Automate repetitive work, tune performance, and make deployment and infrastructu
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1200&color=67E8F9&center=true&vCenter=true&width=500&lines=%3E+activity.stream;%3E+Progress+over+perfection" alt="Animated GitHub activity heading" />
-</div>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=900&color=67E8F9&center=true&vCenter=true&width=600&lines=%3E+SYSTEM.STATUS;%3E+GitHub+Activity+Dashboard" alt="Animated GitHub dashboard heading" />
 
-<img height="170" src="https://github-readme-stats-rho-ten-82.vercel.app/api?username=thailymmo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats-rho-ten-82.vercel.app/api/top-langs/?username=thailymmo&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most-used languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=thailymmo&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub profile trophies" width="100%" />
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=thailymmo&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats-rho-ten-82.vercel.app/api?username=thailymmo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" width="100%" />
+
+</td>
+    <td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats-rho-ten-82.vercel.app/api/top-langs/?username=thailymmo&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most-used languages" width="100%" />
+
+</td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thailymmo&bg_color=00000000&color=67e8f9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution activity graph" width="100%" />
+
+<img src="https://streak-stats.demolab.com/?user=thailymmo&theme=transparent&hide_border=true&ring=0ea5e9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub contribution streak" width="80%" />
 
 </div>
 
