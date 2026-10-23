@@ -1,54 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=THAILY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=59&descSize=16" alt="Thaily profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080c18,35:102a43,70:075985,100:06b6d4&height=220&section=header&text=THAILY&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=ENGINEER%20%7C%20BUILDER%20%7C%20SYSTEMS%20THINKER&descAlignY=59&descSize=15&animation=fadeIn" alt="Animated Thaily profile banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Turning+ideas+into+useful+software;Go+%C2%B7+TypeScript+%C2%B7+Node.js;Automating+the+boring+stuff" alt="Animated typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=760&lines=I+don't+just+write+code.+I+make+things+work.;Building+reliable+backend+systems.;Turning+ideas+into+useful+software.;Automate.+Optimize.+Ship.+Repeat." alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/thailymmo"><img src="https://komarev.com/ghpvc/?username=thailymmo&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  <a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/thailymmo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My%20GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thailymmo&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/thailymmo?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=I+don't+just+write+code.;I+make+things+work.;Curious+mind.+Systems+thinker.;Builder+by+habit." alt="Animated About Me tagline" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=67E8F9&center=true&vCenter=true&width=520&lines=%3E+whoami;%3E+Thaily+%7C+Software+Engineer" alt="Animated About Me heading" />
 
-*Curious mind. Systems thinker. Builder by habit.*
+### Curious mind. Systems thinker. Builder by habit.
 
 </div>
 
-I'm **Thaily** — a software engineer drawn to the parts beneath the surface: how services communicate, how systems fail, and how to make them faster, safer, and easier to maintain.
+I'm **Thaily**, a software engineer drawn to the parts beneath the surface: how services communicate, how systems fail, and how to make them faster, safer, and easier to maintain.
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
 
-### ⚡ BUILD
+<img src="https://img.shields.io/badge/01-BUILD-0ea5e9?style=for-the-badge" alt="Build" />
 
 Turn ideas into practical software — from APIs and backend services to full-stack applications.
 
 </td>
     <td width="33%" align="center" valign="top">
 
-### 🔐 PROTECT
+<img src="https://img.shields.io/badge/02-PROTECT-8b5cf6?style=for-the-badge" alt="Protect" />
 
 Think beyond the happy path: permissions, tenant isolation, authentication, and secure defaults.
 
 </td>
     <td width="33%" align="center" valign="top">
 
-### 🚀 IMPROVE
+<img src="https://img.shields.io/badge/03-IMPROVE-06b6d4?style=for-the-badge" alt="Improve" />
 
 Automate repetitive work, tune performance, and make deployment and infrastructure less painful.
 
@@ -60,66 +56,29 @@ Automate repetitive work, tune performance, and make deployment and infrastructu
 
 <code>Go</code> · <code>TypeScript</code> · <code>Node.js</code> · <code>Docker</code> · <code>Linux</code>
 
-**Currently curious about:** distributed systems, media pipelines, self-hosting, and better developer tools.
+<sub>Currently exploring distributed systems, media pipelines, self-hosting, and better developer tools.</sub>
 
 </div>
 
-## ⚙️ My Toolkit
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1200&color=67E8F9&center=true&vCenter=true&width=500&lines=%3E+toolkit.init%28%29;%3E+Languages+%26+Infrastructure" alt="Animated toolkit heading" />
+</div>
 
 <div align="center">
 
-### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,python,react,nextjs&theme=dark" alt="Languages and frameworks" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,python,react,nextjs&theme=dark" alt="Languages and frameworks" />
-</p>
-
-### Databases, Infrastructure & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,linux,nginx,githubactions,git&theme=dark" alt="Databases and infrastructure tools" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,linux,nginx,githubactions,git&theme=dark" alt="Databases and infrastructure tools" />
 
 </div>
 
-## 🧪 Things I Enjoy Building
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧩 Backend Systems
-
-Designing APIs and services that are understandable, maintainable, and dependable.
-
-</td>
-    <td width="50%" valign="top">
-
-### 🛡️ Access Control
-
-Working with authentication, roles, policies, and permissions across tenants.
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤖 Automation
-
-Building integrations, bots, generators, and scripts to eliminate repetitive work.
-
-</td>
-    <td width="50%" valign="top">
-
-### 🎞️ Media Pipelines
-
-Exploring video processing, streaming performance, caching, and storage workflows.
-
-</td>
-  </tr>
-</table>
-
-## 📊 GitHub, at a Glance
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1200&color=67E8F9&center=true&vCenter=true&width=500&lines=%3E+activity.stream;%3E+Progress+over+perfection" alt="Animated GitHub activity heading" />
+</div>
 
 <div align="center">
 
@@ -130,19 +89,25 @@ Exploring video processing, streaming performance, caching, and storage workflow
 
 </div>
 
-<sub>Stats are generated by third-party services. Private activity and language totals may not be fully represented.</sub>
+<sub>Stats are provided by third-party services and may not include all private activity.</sub>
+
+## 🐍 Contribution Flow
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thailymmo/thailymmo/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through the GitHub contribution graph" width="100%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Build Something Meaningful
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+Let's+build+something+meaningful.;%3E+Ideas+are+better+when+shipped." alt="Animated closing message" />
 
-<a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/Reach%20out-lyvinhthai321%40gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
-<a href="https://github.com/thailymmo"><img src="https://img.shields.io/badge/Follow-@thailymmo-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/CONTACT-lyvinhthai321%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+<a href="https://github.com/thailymmo"><img src="https://img.shields.io/badge/FOLLOW-@thailymmo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080c18,35:102a43,70:075985,100:06b6d4&height=120&section=footer&animation=fadeIn" alt="" />
 
 </div>
