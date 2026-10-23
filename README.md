@@ -45,41 +45,6 @@ I build practical software across **backend APIs, automation, media pipelines, a
 | **Storage & Media** | MinIO, FFmpeg, video streaming, media automation |
 | **Exploration** | Python, cloud platforms, observability, AI-assisted workflows |
 
-## 🚀 Selected Projects
-
-A few public repositories from my GitHub. I also work on additional private projects, so this list isn't a complete picture of what I'm building.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thailymmo/grpc-gen">grpc-gen</a></h3>
-      Tooling around gRPC and API generation workflows. Focused on reducing repetitive setup and making service development easier.
-      <br/><br/>
-      <sub>Go · gRPC · Protobuf</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thailymmo/zca-js">zca-js</a></h3>
-      JavaScript ecosystem project exploring integrations and automation.
-      <br/><br/>
-      <sub>JavaScript · APIs · Automation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thailymmo/tk_note">tk_note</a></h3>
-      A small public project in my collection of experiments and application development.
-      <br/><br/>
-      <sub>Application Development</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thailymmo">More projects</a></h3>
-      Browse my repositories for more experiments, tools, forks, and ongoing work.
-      <br/><br/>
-      <sub>Open source · Experiments · Learning</sub>
-    </td>
-  </tr>
-</table>
-
 ## 🧩 What I Work On
 
 - **Backend systems:** API contracts, service boundaries, data access, and scalable application structure.
