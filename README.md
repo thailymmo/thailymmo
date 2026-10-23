@@ -18,15 +18,49 @@
 
 ## 👨‍💻 About Me
 
-Hey, I'm **Thaily** — a software engineer who enjoys figuring out how things work, building useful tools, and making systems more reliable.
+<div align="center">
 
-- 🧠 **Backend & APIs** — service design, API contracts, gRPC, and distributed-system fundamentals.
-- 🔐 **Security-minded engineering** — authentication, authorization, tenant isolation, and safe defaults.
-- ⚡ **Full-stack development** — connecting clean interfaces with dependable backend services.
-- 🎬 **Media automation** — video processing, streaming, caching, and text-to-speech workflows.
-- ☁️ **Infrastructure** — Linux, Docker, CI/CD, self-hosting, and cost-conscious deployments.
+### I don't just write code. I make things work.
 
-> I like understanding the whole system — from the first request to the database, deployment, and everything in between.
+*Curious mind. Systems thinker. Builder by habit.*
+
+</div>
+
+I'm **Thaily** — a software engineer drawn to the parts beneath the surface: how services communicate, how systems fail, how to make them faster, safer, and easier to maintain.
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+
+### ⚡ BUILD
+
+Turn ideas into practical software — from APIs and backend services to full-stack applications.
+
+</td>
+    <td width="33%" align="center" valign="top">
+
+### 🔐 PROTECT
+
+Think beyond the happy path: permissions, tenant isolation, authentication, and secure defaults.
+
+</td>
+    <td width="33%" align="center" valign="top">
+
+### 🚀 IMPROVE
+
+Automate repetitive work, tune performance, and make deployment and infrastructure less painful.
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+
+<code>Go</code> · <code>TypeScript</code> · <code>Node.js</code> · <code>Docker</code> · <code>Linux</code>
+
+**Currently curious about:** distributed systems, media pipelines, self-hosting, and better developer tools.
+
+</div>
 
 ## ⚙️ My Toolkit
 
