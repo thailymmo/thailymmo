@@ -86,7 +86,7 @@ Automate repetitive work, tune performance, and make deployment and infrastructu
   <tr>
     <td width="50%" align="center" valign="top">
 
-<img src="https://github-readme-stats-rho-ten-82.vercel.app/api?username=thailymmo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub statistics" width="100%" />
+<img src="https://github-readme-stats-rho-ten-82.vercel.app/api?username=thailymmo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" width="100%" />
 
 </td>
     <td width="50%" align="center" valign="top">
