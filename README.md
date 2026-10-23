@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=thailymmo&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thailymmo&style=for-the-badge&color=0891b2&label=PROFILE%20VIEWS" alt="Profile views" />
   <a href="mailto:lyvinhthai321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/thailymmo?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </p>
