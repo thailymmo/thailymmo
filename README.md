@@ -80,7 +80,7 @@ Automate repetitive work, tune performance, and make deployment and infrastructu
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=900&color=67E8F9&center=true&vCenter=true&width=600&lines=%3E+SYSTEM.STATUS;%3E+GitHub+Activity+Dashboard" alt="Animated GitHub dashboard heading" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=thailymmo&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub profile trophies" width="100%" />
+<a href="https://github.com/thailymmo?tab=achievements">🏆 View my official GitHub Achievements</a>
 
 <table>
   <tr>
@@ -97,7 +97,7 @@ Automate repetitive work, tune performance, and make deployment and infrastructu
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thailymmo&bg_color=00000000&color=67e8f9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution activity graph" width="100%" />
+<a href="https://github.com/thailymmo"> <img src="https://ghchart.rshah.org/67e8f9/thailymmo" alt="GitHub contribution activity chart" width="100%" /> </a>
 
 <img src="https://streak-stats.demolab.com/?user=thailymmo&theme=transparent&hide_border=true&ring=0ea5e9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub contribution streak" width="80%" />
 
